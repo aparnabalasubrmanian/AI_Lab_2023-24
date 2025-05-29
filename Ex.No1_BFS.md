@@ -43,10 +43,6 @@ def bfs(visited, graph, node):  # Function for BFS
 print("Following is the Breadth-First Search:")
 bfs(visited, graph, '5')  # Function calling
 ```
-
-
-
-
 ### Output:
 
 ![image](https://github.com/user-attachments/assets/e8b6afd3-bab5-4093-940e-360a983919e6)
